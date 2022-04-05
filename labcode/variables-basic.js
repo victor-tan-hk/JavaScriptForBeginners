@@ -18,6 +18,10 @@ let days = 30;
 // You can declare and initialize multiple variables in a single statement
 // by separating the declaration and initialization with commas
 
+/* let greeting = "hello";
+let counter = 100; */
+
+
 let greeting = "Hello", counter = 100;
 
 /* You can display the value or content of a variable
@@ -54,6 +58,7 @@ const age = 30;
 // These variable names are not meaningful
 let x = 'HR Manager';
 let y = 3500;
+
 
 // These variable names are meaningful and use camelCase
 let jobTitle = 'HR Manager';

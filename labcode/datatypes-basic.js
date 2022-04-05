@@ -14,6 +14,7 @@ let salary = 2500.55;
 let heroName = 'Batman';
 let jobDescription = 'Fighting criminals in Gotham city';
 
+
 // boolean type only can be true or false
 let isMarried = false;
 let doILoveShopee = true;
@@ -41,6 +42,7 @@ console.log("The latest data type of age is ", typeof age);
 // it will have the value undefined.
 
 let noValueHere;
+//noValueHere = 35;
 console.log("noValueHere contains ", noValueHere);        
 console.log("The data type of noValueHere is ", typeof noValueHere); 
 
