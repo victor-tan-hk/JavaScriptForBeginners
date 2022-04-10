@@ -67,8 +67,8 @@ console.log("The sum of all the numbers is : ", sum);
 console.log("The average of all the numbers is : ", sum / basicNumbers.length);
 
 // Finding the smallest / largest number in an array
-let smallestNumber = 0;
-let largestNumber = 0;
+let smallestNumber = basicNumbers[0];
+let largestNumber = basicNumbers[0];
 for (let number of basicNumbers) {
     if (smallestNumber > number) 
         smallestNumber = number;
