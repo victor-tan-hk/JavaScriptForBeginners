@@ -1,2 +1,2 @@
 # Introduction to JavaScript For Beginners
-# Shopee April 2022
+# Shopee Aug 2022
