@@ -42,7 +42,4 @@ Create a variable to store a year as a number, and then indicate whether the yea
 
 
 
-/* Q9: Create a variable to hold the value for the blood pressure reading (systolic) and then outputs the corresponding category value (normal, elevated, HBP stage 1, HBP stage 2).
- */
-
 

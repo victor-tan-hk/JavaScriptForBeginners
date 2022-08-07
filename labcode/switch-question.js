@@ -7,4 +7,3 @@ http://bullythebear.blogspot.com/2015/03/algorithm-to-find-chinese-horoscope.htm
 
 Determine the Chinese astrological sign for that year using a switch case statement
  */
-

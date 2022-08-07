@@ -8,7 +8,6 @@ Find the factorial of a number that is stored in a variable */
 
 
 
-
 /* Q2. Create three variables x, y and z (you can give them other names if you wish). 
 Calculate the total of all numbers perfectly divisible by x that are between y and z. 
 For e.g. if  x is 5, and y and z are 20 and 40 respectively, then the total = 20 + 25 + 30 + 35 + 40.  
@@ -19,7 +18,7 @@ For e.g. if  x is 5, and y and z are 20 and 40 respectively, then the total = 20
 
 
 
-/* Q3. The ^ sign is used to indicate the use of power (for e.g. 2^3 means 23 which gives us 8). Write a program that creates the output below:
+/* Q3. The ^ sign is used to indicate the use of power (for e.g. 2^3 means 2 x 2 x 2 which gives us 8). Write a program that creates the output below:
 
 n n^2 n^3 n^4
 1 1   1   1
@@ -58,5 +57,4 @@ If the number is 5, the output to be displayed is :
 * * * *
 * * * * *
 
-Write a program to accomplish this. 
-Hint: You will need to use nested loops */
+Write a program to accomplish this. */
