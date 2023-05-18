@@ -1,7 +1,7 @@
 
 console.log("Skip to the next pass of the loop when i is 3");
 for (let i = 1; i <= 5; i++) {
-    if (i == 3) {
+    if (i === 3) {
         continue;
     }
     console.log("i has the value of ", i);
@@ -26,7 +26,7 @@ console.log("Using continue in a nested loop via a label");
 // break in the inner loop as seen in the previous example
 outer :for (let i = 1; i <= 3; i++) {
     for (let j = 1; j <= 8; j++) {
-        if (i + j == 6) {
+        if (i + j === 6) {
             continue outer;
         }
         console.log("i is " + i + " and j is " + j);

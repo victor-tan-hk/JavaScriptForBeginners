@@ -6,6 +6,8 @@ Find the factorial of a number that is stored in a variable */
 
 
 
+
+
 /* Q2. Create three variables x, y and z (you can give them other names if you wish). 
 Calculate the total of all numbers perfectly divisible by x that are between y and z. 
 For e.g. if  x is 5, and y and z are 20 and 40 respectively, then the total = 20 + 25 + 30 + 35 + 40.  

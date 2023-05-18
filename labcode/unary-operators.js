@@ -44,7 +44,7 @@ age--; // Postfix decrement operator
 console.log("Value of age after postfix decrement : ", age);
 
 weight = 20;
---weight; // Prefix increment operator
+--weight; // Prefix decrement operator
 // The above is the shortcut for writing
 // weight = weight - 1
 console.log("Value of weight after prefix decrement : ", weight);

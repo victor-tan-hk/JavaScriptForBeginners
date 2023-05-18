@@ -6,4 +6,4 @@ https://thirdspacelearning.com/blog/what-is-a-prime-number/
 
 Print out the list of prime numbers between two numbers x and y. For e.g. between 20 and 40, the prime numbers are 23, 29, 31, 37
 
-Hint: You will need to use a nested loop */
+Hint: You  need to use a nested loop */
